@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DLMTask1Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-11T01:01:54" hostname="MacBook-Air-Regina.local" time="1.909">
+  <properties/>
+  <testcase name="testSolution()" classname="DLMTask1Tests" time="1.909"/>
+  <system-out><![CDATA[17:01:54.980 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+17:01:55.649 [Test worker] DEBUG reactor.core.publisher.Hooks - Enabling stacktrace debugging via onOperatorDebug
+17:01:55.707 [single-1] INFO reactor.Flux.OnAssembly.1 - | onSubscribe([Fuseable] FluxOnAssembly.OnAssemblySubscriber)
+17:01:55.709 [single-1] INFO reactor.Flux.OnAssembly.1 - | request(unbounded)
+17:01:55.871 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(1)
+17:01:55.976 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(0)
+17:01:56.082 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(0)
+17:01:56.186 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(0)
+17:01:56.290 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(0)
+17:01:56.395 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(0)
+17:01:56.500 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(1)
+17:01:56.605 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(1)
+17:01:56.709 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(1)
+17:01:56.815 [single-1] INFO reactor.Flux.OnAssembly.1 - | onNext(1)
+17:01:56.816 [single-1] INFO reactor.Flux.OnAssembly.1 - | cancel()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

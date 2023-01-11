@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommonPublishersTask1Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-09T20:42:47" hostname="MacBook-Air-Regina.local" time="0.082">
+  <properties/>
+  <testcase name="testCorrectFluxTypeUsed()" classname="CommonPublishersTask1Tests" time="0.073"/>
+  <testcase name="testResultIsCorrect()" classname="CommonPublishersTask1Tests" time="0.008"/>
+  <system-out><![CDATA[12:42:47.956 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+12:42:47.957 [Test worker] DEBUG reactor.core.publisher.Hooks - Hooking onEachOperator: CommonPublishersTask1Tests$$Lambda$336/0x0000000300201000@4b3ed2f0
+12:42:47.986 [Test worker] DEBUG reactor.core.publisher.Hooks - Reset to factory defaults : onEachOperator
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

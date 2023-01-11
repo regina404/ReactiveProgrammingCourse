@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CPTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-10T00:00:12" hostname="MacBook-Air-Regina.local" time="1.347">
+  <properties/>
+  <testcase name="findVideoTest()" classname="CPTask2Tests" time="1.347"/>
+  <system-out><![CDATA[16:00:13.348 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

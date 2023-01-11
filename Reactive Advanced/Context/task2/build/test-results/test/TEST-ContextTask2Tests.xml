@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContextTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-09T21:56:30" hostname="MacBook-Air-Regina.local" time="0.169">
+  <properties/>
+  <testcase name="testSolution()" classname="ContextTask2Tests" time="0.169"/>
+  <system-out><![CDATA[13:56:30.656 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

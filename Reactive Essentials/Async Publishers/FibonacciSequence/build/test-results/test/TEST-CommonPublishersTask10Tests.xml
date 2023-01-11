@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommonPublishersTask10Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-09T20:51:25" hostname="MacBook-Air-Regina.local" time="0.097">
+  <properties/>
+  <testcase name="testSolution()" classname="CommonPublishersTask10Tests" time="0.088"/>
+  <testcase name="testSolution1()" classname="CommonPublishersTask10Tests" time="0.008"/>
+  <system-out><![CDATA[12:51:25.058 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
